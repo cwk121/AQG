@@ -1,0 +1,12 @@
+header {
+  margin-bottom: 20px;
+}
+
+header > h1 {
+  text-align: center;
+  color: royalblue;
+}
+
+header > h1 > span {
+  cursor: pointer;
+}

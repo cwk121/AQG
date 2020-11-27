@@ -1,0 +1,5 @@
+spacy
+pattern
+transformers
+flask
+flask_cors
